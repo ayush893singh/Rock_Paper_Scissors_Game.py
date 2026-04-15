@@ -22,6 +22,17 @@ The computer randomly selects one option, and the winner is decided based on the
    * Otherwise → Winner is decided using conditions
 5. Result is displayed on the screen.
 
+## How to Run
+
+1. Install Python on your system
+2. Copy the code into a file named `Rock_Paper_Scissors_Game.py`
+3. Open terminal / command prompt
+4. Run the program:
+
+   ```
+   python game.py
+   ```
+
 ## Code
 ```
 python
@@ -77,16 +88,6 @@ Enter your choice (rock/paper/scissors): paper
 Computer chose: rock
 You win!
 ```
-## ▶️ How to Run
-
-1. Install Python on your system
-2. Copy the code into a file named `Rock_Paper_Scissors_Game.py`
-3. Open terminal / command prompt
-4. Run the program:
-
-   ```
-   python game.py
-   ```
 
 ## Author
 
