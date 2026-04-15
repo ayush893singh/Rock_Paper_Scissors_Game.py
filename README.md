@@ -80,7 +80,7 @@ You win!
 ## ▶️ How to Run
 
 1. Install Python on your system
-2. Copy the code into a file named `game.py`
+2. Copy the code into a file named `Rock_Paper_Scissors_Game.py`
 3. Open terminal / command prompt
 4. Run the program:
 
